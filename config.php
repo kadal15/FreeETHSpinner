@@ -1,6 +1,6 @@
 <?php
 
-$email = "xxxxxxxxxxx@gmail.com";
+$email = "ayipaloh@gmail.com";
 
 $deviceid = "?";
 
